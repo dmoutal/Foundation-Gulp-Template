@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Dan Moutal",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "foundation-sites": "*",
+    "fitvids": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-concat": "*",
+    "gulp-filter": "*",
+    "jshint": "*",
+    "gulp-jshint": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*"
+  }
+}
